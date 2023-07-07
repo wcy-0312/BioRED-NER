@@ -1,0 +1,13 @@
+processed 304022 tokens with 27295 phrases; found: 31072 phrases; correct: 23186.
+accuracy:  86.60%; (non-O)
+accuracy:  95.85%; precision:  74.62%; recall:  84.95%; FB1:  79.45%
+         CellLine: precision:  67.20%; recall:  73.89%; FB1:  70.39%  497
+   ChemicalEntity: precision:  70.44%; recall:  83.84%; FB1:  76.55%  7306
+DiseaseOrPhenotypicFeature: precision:  76.50%; recall:  78.74%; FB1:  77.60%  8684
+GeneOrGeneProduct: precision:  71.19%; recall:  89.80%; FB1:  79.42%  10677
+    OrganismTaxon: precision:  91.78%; recall:  92.12%; FB1:  91.95%  2956
+  SequenceVariant: precision:  78.68%; recall:  87.19%; FB1:  82.72%  952
+
+Epoch: 100%|██████████| 10/10 [10:31<00:00, 63.16s/it]
+Total training time:  631.6127546329953
+training time:  664.7232091426849
